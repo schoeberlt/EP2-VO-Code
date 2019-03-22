@@ -2,7 +2,7 @@
 
 # Directories #
 build/
-out/
+#out/
 bin/
 target/
 dist/
